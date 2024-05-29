@@ -15,7 +15,8 @@
       "text",
       "image",
       "button",
-      "title"
+      "title",
+      "quote"
     ]
   },
   {
@@ -27,13 +28,20 @@
       "title",
       "hero",
       "cards",
-      "columns"
+      "columns",
+      "quote"
     ]
   },
   {
     "id": "cards",
     "components": [
       "card"
+    ]
+  },
+  {
+    "id": "quote",
+    "components": [
+      "quote"
     ]
   }
 ]
